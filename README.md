@@ -58,5 +58,7 @@ Clone the repo or download the `.ipynb` notebook and run it in Jupyter Notebook 
 
 Made by [Ashmeet Singh Sandhu]  
 📧 sandhuashmeet40@gmail.com  
-🔗 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/ashmeet-sandhu-79a209324/))
+🔗 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/ashmeet-sandhu-79a209324/))  
+
+
 
